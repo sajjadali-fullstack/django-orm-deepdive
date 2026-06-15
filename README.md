@@ -6,7 +6,7 @@ A highly polished, modern web dashboard built with Django and Bootstrap 5. This 
 
 ## 📸 Interface Preview
 
-![Premium Dashboard Interface](dashboard.png)
+![Premium Dashboard Interface](prosoner-dashboard.png)
 
 ---
 
